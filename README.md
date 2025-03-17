@@ -1,4 +1,4 @@
-# Energex
+# Energex (GraphQL API with Absinthe)
 
 To start your Phoenix server:
 
